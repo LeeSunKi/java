@@ -1,0 +1,16 @@
+로컬 저장소와 원격저장소 연결하기
+D드라이브에 git2020폴더를 추가하였고
+git init으로 초기화한 상태임
+
+아래 명령어를 실행시킴
+git remote add or origin
+https://github.com/LeeSunKi/java.git
+
+repo이름이 test59임.
+
+실행하고 나면 
+
+git remote -v 입력
+originXXXXXXXXXXXXXXX
+originXXXXXXXXXXXXXXX
+뜨면 연결 성공
